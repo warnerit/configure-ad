@@ -37,7 +37,8 @@ Go to Microsoft Azure and open virtual machines, click on create a new virtual m
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/4e602421-441b-4cbf-88eb-ccda28d0d9b6)
+
 </p>
 <p>
 Now that you have created your virtual machine you can now ahead go and log into it through using the Remote Desktop Connection application on your current computer.
