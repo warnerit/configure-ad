@@ -26,8 +26,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/f2993ddc-f3cd-4fc3-b5c8-7a1b801d00bd)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/29ee1233-74fe-45c6-ac87-5eb76657b4d2)
+
 </p>
 <p>
 Go to Microsoft Azure and open virtual machines, click on create a new virtual machine, and create a Windows 10 VM with at least 2-4 vCPUs and 8 GB of memory, once you do that .
