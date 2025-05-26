@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <p>
-Go to Microsoft Azure and open virtual machines, click on create a new virtual machine, and create a Windows 10 VM with at least 2-4 vCPUs and 8 GB of memory, once you do that .
+Go to Microsoft Azure and open virtual machines, click on create a new virtual machine, and create a Windows 10 VM with at least 2-4 vCPUs and 8 GB of memory, once you do that you can make a username and password to login to the virtual machine.
 </p>
 <br />
 
