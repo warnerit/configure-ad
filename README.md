@@ -37,6 +37,7 @@ Go to Microsoft Azure and open virtual machines, click on create a new virtual m
 <br />
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/4e602421-441b-4cbf-88eb-ccda28d0d9b6)
 
 </p>
